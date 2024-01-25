@@ -1,4 +1,4 @@
-# Deep Learning based Food Demand Forecasting
+# Machine Learning based Food Demand Forecasting
 <p align="center">
   <img src="https://github.com/akhilchibber/Food-Demand-Forecasting/blob/main/Food.png?raw=true" alt="earthml Logo">
 </p>
